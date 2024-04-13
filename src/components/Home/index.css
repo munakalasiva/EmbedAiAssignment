@@ -1,0 +1,87 @@
+.home {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+.side-nav-bar {
+  justify-content: flex-start;
+}
+.main-container {
+  display: flex;
+  background-color: #e8e8e8;
+  padding: 20px;
+}
+.home-container {
+  display: flex;
+  flex-direction: column;
+}
+.home-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-left: 200px;
+}
+.nav-head-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.nav-head-profile {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.nav-head-profile {
+  justify-content: space-between;
+}
+.nav-head-profile-name {
+  display: flex;
+  flex-direction: row;
+}
+.profile-button-1 {
+  border-radius: 25px;
+  height: 40px;
+  width: 40px;
+  border-color: #34cfeb;
+  background-color: antiquewhite;
+}
+.search-container {
+  padding-right: 20px;
+  justify-content: center;
+}
+.input {
+  height: 50px;
+  width: 250px;
+  border-radius: 30px;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.prime-char-section {
+  padding-top: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+.for-you-section {
+  padding-top: 30px;
+  padding-bottom: 150px;
+  padding-left: 80px;
+}
+.try-these-section {
+  padding-top: 30px;
+  padding-bottom: 150px;
+  padding-left: 80px;
+}
+.featured-container {
+  padding-top: 30px;
+  padding-bottom: 150px;
+  padding-left: 80px;
+}
+.feature-buttons-container {
+  padding-top: 180px;
+  padding-bottom: 150px;
+  padding-left: 80px;
+}

@@ -1,0 +1,14 @@
+.list-item {
+  height: 150px;
+  width: 100px;
+  list-style-type: none;
+}
+.featured {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.image {
+  height: 60px;
+  width: 60px;
+}

@@ -1,0 +1,104 @@
+.nav-container {
+  background-color: #ffff;
+  height: 100vh;
+  position: fixed;
+  padding: 10px;
+}
+.nav-head {
+  display: flex;
+  padding-left: 5px;
+}
+.nav-heading {
+  font-family: "sans-serif";
+  font-size: 20px;
+  padding-right: 10px;
+}
+
+.nav-button-1 {
+  padding: 5px;
+  padding-top: 20px;
+}
+.nav-create {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-left: 5px;
+}
+.nav-create-button {
+  border-radius: 25px;
+  height: 40px;
+  width: 100px;
+  border-color: #34cfeb;
+}
+.nav-discover {
+  padding-top: 10px;
+  justify-content: flex-start;
+  padding-right: 10px;
+}
+.nav-discover-button {
+  border-radius: 10px;
+  height: 40px;
+  width: 180px;
+  border-color: #34cfeb;
+  justify-content: flex-start;
+}
+.nav-chats-container {
+  display: flex;
+  flex-direction: column;
+}
+.nav-chats-head {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 5px;
+}
+.nav-chats {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.nav-chat-head {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  font-size: 13px;
+  padding-left: 10px;
+}
+.nav-chats-user-1 {
+  display: flex;
+  padding-left: 5px;
+}
+.nav-chat-button {
+  background-color: #3275a8;
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  color: #ffff;
+  border-color: aqua;
+}
+.nav-chat-content {
+  padding-bottom: 30px;
+  padding-left: 5px;
+}
+.nav-footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+}
+.break {
+  width: 150px;
+}
+.try-button {
+  border-radius: 20px;
+  padding-left: 20px;
+  padding-right: 10px;
+  height: 40px;
+  width: 150px;
+  border-color: #34cfeb;
+  justify-content: flex-start;
+}
+.nav-chats-user-profile {
+  display: flex;
+  padding-top: 20px;
+}
